@@ -1,0 +1,10 @@
+Windows Users Only
+
+As we talked in the previous video that Redis doesn't support Windows officially. The last unofficial version of Redis for windows was for version 3. I don't recommend to go for it.
+From the next video, we will set up a Linux environment for Windows users.
+It's your choice to go for VirtualBox or Vmware to install Ubuntu. I have included instructions for both.
+
+
+Thanks & Regards
+
+Diwakar Singh
